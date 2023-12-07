@@ -1,11 +1,11 @@
 ### Hello There!
 Welcome to my profile.
 
-I'm currently learning programming.
+<h1>About me</h1>
 
-<h1>Spoken Languages:</h1>
-
-* [PT-BR] [ENG] [ESP];
-* Currently learning German [DE].
+* He/Him 19 🇧🇷
+* **[PT-BR]** Native **[ENG] [ESP]**; Currently learning **[DE]**
+* I've recently started to learn programming
 
   
+Apologies for having everything written in english, I just prefer it this way.
