@@ -3,7 +3,7 @@ Welcome to my profile.
 
 <h1>About me</h1>
 
-* He/Him 19 🇧🇷
+* He/Him 20 🇧🇷
 
 <h2>Interests</h2>
 
