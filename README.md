@@ -5,10 +5,10 @@ Tenho experiência prática em desenvolvimento Back-end e Front-end, análise de
 
 <h2>Habilidades Técnicas:</h2>
 
-* Linguagens: Java, Python, SQL
+* Linguagens: Java, Python, JavaScript, TypeScript
 * Tecnologias Web/Mobile: React, React Native, Node.js, HTML, CSS, JavaScript
-* Plataformas e Ferramentas: Microsoft Azure, IBM Watson, Node-RED
-* Bancos de Dados: Oracle, MySQL
+* Banco de Dados: SQL, OracleDB, SQL Server, serviços de banco de dados em nuvem
+* DevOps/Cloud: Dockerfile, Docker Compose, Azure, IBM Watson, Node-RED
 
  Atualmente, estou em busca de uma oportunidade de estágio onde eu possa colocar em prática meus conhecimentos, crescer como programador e me desenvolver como profissional na área de tecnologia.
 
