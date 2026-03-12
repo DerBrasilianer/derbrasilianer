@@ -1,6 +1,6 @@
 <h1>Sobre mim</h1>
 
-Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista).
+Recentemente formado em Análise e Desenvolvimento de Sistemas na FIAP (Faculdade de Informática e Administração Paulista).
 Tenho experiência prática em desenvolvimento Back-end e Front-end, análise de dados, bancos de dados relacionais, além de criação de sites e aplicações web/mobile.
 
 <h2>Habilidades Técnicas:</h2>
