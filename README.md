@@ -79,7 +79,7 @@ Posso ser contatado pelo meu **[LinkedIn](www.linkedin.com/in/enzo-soddano-39010
 <br>
 <br>
 <div>
-    <a href="https://shields.io">
+    <a href="_https://shields.io">
         <img
             align="left"
             alt="Linguagens"
@@ -89,7 +89,7 @@ Posso ser contatado pelo meu **[LinkedIn](www.linkedin.com/in/enzo-soddano-39010
             src="https://custom-icon-badges.demolab.com/badge/-Desenvolvido_com_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white"
         />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="_https://github.com/anuraghazra/github-readme-stats">
         <img
             align="left"
             alt="Linguagens"
