@@ -5,6 +5,7 @@
 Tenho 22 anos e estou situado em São Paulo, SP. Concluí o ensino médio no Colégio Nova Estrutura, sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e estou pronto para colocar tudo que aprendi em prática. Tenho experiência prática em desenvolvimento Back-end e Front-end, análise de dados, bancos de dados relacionais, além de criação de sites e aplicações web/mobile.
 
 Posso ser contatado pelo meu **[LinkedIn](www.linkedin.com/in/enzo-soddano-390102259)** e **[WhatsApp](https://wa.me/5511950706496)**
+Alternativamente, meu email profissional é **enzo.prado.soddano@gmail.com**
 
 ---
 
