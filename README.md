@@ -75,7 +75,7 @@ Tenho 22 anos e estou situado em São Paulo, SP. Concluí o ensino médio no Col
         alt="Linguagens"
         height=200px
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBrasilianer&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBrasilianer&locale=pt-br&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight"
     />
 </p>
 
