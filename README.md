@@ -2,10 +2,13 @@
 
 **`Desenvolvedor Fullstack`**
 
-Tenho 22 anos e estou situado em São Paulo, SP. Concluí o ensino médio no Colégio Nova Estrutura, sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e estou pronto para colocar tudo que aprendi em prática. Tenho experiência prática em desenvolvimento Back-end e Front-end, análise de dados, bancos de dados relacionais, além de criação de sites e aplicações web/mobile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-soddano-390102259)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511950706496)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.prado.soddano@gmail.com)
 
-Posso ser contatado pelo meu **[LinkedIn](www.linkedin.com/in/enzo-soddano-390102259)** e **[WhatsApp](https://wa.me/5511950706496)**
-Alternativamente, meu email profissional é **enzo.prado.soddano@gmail.com**
+![](https://komarev.com/ghpvc/?username=DerBrasilianer&color=blue&style=flat-square)
+
+Tenho 22 anos e estou situado em São Paulo, SP. Concluí o ensino médio no Colégio Nova Estrutura, sou formado em Análise e Desenvolvimento de Sistemas pela FIAP e estou pronto para continuar minha jornada profissional. Tenho experiência prática em desenvolvimento Back-end e Front-end, análise de dados, bancos de dados relacionais, além de criação de sites e aplicações web/mobile.
 
 ---
 
@@ -23,8 +26,7 @@ Alternativamente, meu email profissional é **enzo.prado.soddano@gmail.com**
 <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
-<a href="#"><img style="height:20px; border-radius:3px" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>
-    
+<a href="#"><img style="height:20px; border-radius:10px" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"></a>  
 </p>
 
 <h3>🗄️ Bancos de Dados e Hospedagem</h3>
@@ -52,11 +54,10 @@ Alternativamente, meu email profissional é **enzo.prado.soddano@gmail.com**
     <a href="#"><img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-black?logo=insomnia&logoColor=5849BE"></a>
     <a href="#"><img alt="Mqtt" src="https://img.shields.io/badge/Mqtt-lightgrey?logo=mqtt"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badgelogo=intelliJ-J&logoColor=white"></a>
+    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"></a>
 </p>
 
-<br>
 <br>
 
 ### 📊 Estatísticas
@@ -74,26 +75,27 @@ Alternativamente, meu email profissional é **enzo.prado.soddano@gmail.com**
         alt="Linguagens"
         height=200px
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=DerBrasilianer&size_weight=0.5&count_weight=0.5&layout=donut&theme=tokyonight"
     />
 </p>
-<br>
-<br>
+
+<br clear="both"/>
+
 <div>
-    <a href="https://shields.io" target="_blank">
+    <a href="https://shields.io" target="_blank" rel="noopener noreferrer">
         <img
             align="left"
-            alt="Linguagens"
+            alt="Shields.io"
             height=30px
             width=300px
             style="padding-right: 10px;"
             src="https://custom-icon-badges.demolab.com/badge/-Desenvolvido_com_Shields.io-000000?style=for-the-badge&logo=shieldsiobadge&logoColor=white"
         />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener noreferrer">
         <img
             align="left"
-            alt="Linguagens"
+            alt="GitHub Stats"
             height=30px
             width=300px
             style="padding-right: 10px;"
